@@ -5,11 +5,10 @@ This was a personal project where I made a trash can that would open when a hand
 
 Closed(Hand not in front of sensor)
 
-<img src="handOver.jpg" alt="hand" width="200"/>
+<img src="lackHand.jpg" alt="hand" width="200"/>
 
 
 Open(Hand in front of sensor)
 
-<img src="noHand.jpg" alt="noHand" width="200"/>
-
+<img src="handOver.jpg" alt="hand" width="200"/>
 
